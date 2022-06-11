@@ -3,3 +3,4 @@ RENCANA
 - Memahami CSS
 - Java Script Dikit2 (Mungkin)
 - Membaca Baca Dokumen
+- Mengotak atik Web My Porto
